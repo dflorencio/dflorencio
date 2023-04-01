@@ -1,9 +1,5 @@
 ## 🎶 Welcome to the jungle 🎶 
 
-
-
-
-
 <p align="center"></p>
 
 <!--
