@@ -15,11 +15,12 @@
 - ⚡ Fun fact: ...
 -->
  ### 🧑‍💻 Me chamo Davi Florencio 
-- 👯 Trabalho como Suporte Tecnico na [BITFARMA](https://bitfarma.com.br/).
-- 🌱 Atualmente tenho estudado desenvolvimento em CSharp
+- 🔭 Trabalho como Analista de Suporte.
+- 🌱 Atualmente estou estudando:
+ <img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />  <img padding="10px" width="40" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />   <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+           
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dflorencio.dflorencio)
-[<img alt="github" src="https://img.shields.io/badge/github-dflorencio-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/dflorencio)
+
 
 # ⚡ Linguagens e Ferramentas Utilizadas
 
@@ -33,12 +34,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dflorencio&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=radical&layout=compact" alt="thangchung" />
 
-# :octocat: Contribuições no Github 
+# Contribuições no Github 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dflorencio&show_icons=true&count_private=true&theme=radical" alt="dflorencio" />
 
 # 📫 Outras Redes
 
-[Linkedin](https://www.linkedin.com/in/davi-florencio)
 
-
+<a href="https://instagram.com/florenciodavi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/davi-florencio-b9321038/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
